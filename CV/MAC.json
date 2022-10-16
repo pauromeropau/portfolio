@@ -41,6 +41,46 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ezquiaga Arquitectura Sociedad y Territorio SL.",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/e6cc7123-f428-4ece-b83d-bed187d293bf_logo.png"
+          },
+          "URL": "https://ezquiagaarquitectura.com/"
+        },
+        "roles": [
+          {
+            "name": "Geographic Information Systems Engineer",
+            "startDate": "2018-04-01",
+            "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "· Collection of spatial information. \n· Elaboration and maintenance of urban and town maps using Georeferenced Information System (GIS) with QGIS and ArcGIS.\n· Query data on maps using SQL and Python."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Cálculo de Estructuras, Ingeniería y Arquitectura",
           "image": {
             "alt": "LOGO CE.jpg",
