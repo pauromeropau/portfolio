@@ -41,6 +41,34 @@
     "jobs": [
       {
         "organization": {
+          "name": "Saint-Gobain",
+          "image": {
+            "alt": "MicrosoftTeams-image (10).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/8be5a28f-19e2-4fd7-acbb-5bda500697fd_microsoftteams-image.png"
+          },
+          "URL": "https://www.saint-gobain.es/"
+        },
+        "roles": [
+          {
+            "name": " Technical Office Engineer",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "· Management of updating company's App.\n· Hydraulic and mechanical calculation for the App. \n· Monitoring and maintenance of App database using SQL."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Ezquiaga Arquitectura Sociedad y Territorio SL.",
           "image": {
             "alt": "logo.png",
