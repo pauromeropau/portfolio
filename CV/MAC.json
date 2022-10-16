@@ -41,6 +41,73 @@
     "jobs": [
       {
         "organization": {
+          "name": "Darwinex",
+          "image": {
+            "alt": "dar.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/948f2cf4-9670-4b84-a3f8-b19775533b5c_dar.jpg"
+          },
+          "URL": "https://www.darwinex.com/es/"
+        },
+        "roles": [
+          {
+            "name": " Frontend Software Engineer",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Jira · JSON · Visual Studio · React.js · Next.js · JavaScript · User Interface Design · User Experience (UX) · HTML · jQuery · SASS · Software Development · Agile Methodologies"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "España Fascinante",
           "image": {
             "alt": "logoef.png",
