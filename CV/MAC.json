@@ -41,6 +41,58 @@
     "jobs": [
       {
         "organization": {
+          "name": "Box2Box",
+          "image": {
+            "alt": "logo1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/5d04729f-2673-4be4-ad38-01c465b528cc_logo1.jpg"
+          },
+          "URL": "https://box2box.es"
+        },
+        "roles": [
+          {
+            "name": " Full Stack Developer & UI Designer",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "· Management and maintenance of Spain, France and Portugal company websites using JavaScript, HTML, Bootstrap and PHP. User experience and design improvements following SEO best practices. Audits and leads increase, monitoring with tools such as Google Analytics or Hotjar. \n· Design with Sketch software and development of new global website with MERN Stack (Mongo, Express, React and Node).\n· Design, development and maintenance of an automated data system with barcodes for eight European cities, using an App for data collection and SQL for DDBB management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Saint-Gobain",
           "image": {
             "alt": "MicrosoftTeams-image (10).png",
