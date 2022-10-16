@@ -41,6 +41,62 @@
     "jobs": [
       {
         "organization": {
+          "name": "España Fascinante",
+          "image": {
+            "alt": "logoef.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/ea16df00-50bd-4a9a-bfc5-d0a26a040b1e_logoef.png"
+          },
+          "URL": "https://espanafascinante.com/"
+        },
+        "roles": [
+          {
+            "name": " Frontend Developer & UX/UI Designer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "· Development and maintenance of Spain, France, China and UK websites using CMS WordPress, PHP and MySQL.\n· OnPage Audits: Analysis of different elements that influence the positioning of the site such as content analysis, keywords, metadata, etc. and they carry out strategies to orient the site based on the user's search and the business orientation.\n· OffPage Audits: Analysis of the different external links that point to the site and carry out strategies to get quality links and increase the site authority.\n· Technical Audits for performance and site indexing. \n· UX Audits for CRO improvement.\n· Management of SEO tools like Google Analytics and Search Console.\n· SEM campaigns with Google Ads: Budgets, strategies, competitor research, assembly of structures, monitoring and optimization of them."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google AdManager",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Box2Box",
           "image": {
             "alt": "logo1.jpg",
