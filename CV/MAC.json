@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Paula",
       "surnames": "Romero",
       "title": "Frontend Software Engineer",
-      "description": "🚀 Born digital in the intersection of design and technology\n\n♥️ I design and develop Digital Products\n\n✨I love to dig into people's problems and solve them with modern technology\n\n💬 I enjoy meeting new open-minded people and share perspectives\n\n📧 Reach out if you want to talk to me about emerging tech, creating software products, or just design something",
+      "description": "🚀 Born digital in the intersection of design and technology\n\n♥️ I design and develop Digital Products\n\n✨I love to dig into people's problems and solve them with modern technology\n\n💬 I enjoy meeting new open-minded people and share perspectives",
       "avatar": {
         "alt": "Webp.net-resizeimage.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/18/62fdf908-3c54-4227-ae69-84237b0815d3_webp.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
