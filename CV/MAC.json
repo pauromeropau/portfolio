@@ -97,6 +97,58 @@
       },
       {
         "organization": {
+          "name": "Clidea Digital",
+          "image": {
+            "alt": "logo_principal-07.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/df6f0db8-765d-415c-9e8f-af3b4e82685a_logo_principal-07.svg"
+          },
+          "URL": "https://clidea.org/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer & UX/UI Designer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "· Website development with Next.js (React Server Side Rendering) and WordPress CMS as a backend through queries with GraphQL.\n· Website development with CMS WordPress, PHP and MySQL.\n· Design with Figma software.\n· Task Automation with Python.\n· Agile Methodology."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Box2Box",
           "image": {
             "alt": "logo1.jpg",
