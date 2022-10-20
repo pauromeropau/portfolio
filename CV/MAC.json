@@ -367,13 +367,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Italian"
+        "name": "Italian",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -480,6 +483,7 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
