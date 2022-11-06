@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -226,12 +225,12 @@
         },
         "roles": [
           {
-            "name": " Full Stack Developer & UI Designer",
+            "name": "Frontend Software Engineer",
             "startDate": "2019-08-01",
             "finishDate": "2020-03-01",
             "challenges": [
               {
-                "description": "· Management and maintenance of Spain, France and Portugal company websites using JavaScript, HTML, Bootstrap and PHP. User experience and design improvements following SEO best practices. Audits and leads increase, monitoring with tools such as Google Analytics or Hotjar. \n· Design with Sketch software and development of new global website with MERN Stack (Mongo, Express, React and Node).\n· Design, development and maintenance of an automated data system with barcodes for eight European cities, using an App for data collection and SQL for DDBB management."
+                "description": "· Management and maintenance of Spain, France and Portugal company websites using JavaScript, HTML, Bootstrap and PHP. User experience and design improvements following SEO best practices. Audits and leads increase, monitoring with tools such as Google Analytics or Hotjar. \n· Design with Sketch software and development of new global website with MERN Stack (Mongo, Express, React and Node).\n· Design, development and maintenance of an automated data system with barcodes for eight European cities, using an App for data collection and SQL for DDBB management.\n· Lead a small team of devs"
               }
             ],
             "competences": [
@@ -367,16 +366,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Italian",
-        "level": "Full professional proficiency"
+        "name": "Italian"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -483,7 +479,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
