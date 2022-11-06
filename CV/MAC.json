@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -366,13 +367,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Italian"
+        "name": "Italian",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -479,6 +483,7 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
