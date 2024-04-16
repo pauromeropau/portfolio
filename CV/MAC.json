@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,30 +11,30 @@
       "title": "Frontend Software Engineer",
       "description": "🚀 Born digital in the intersection of design and technology\n\n♥️ I design and develop Digital Products\n\n✨I love to dig into people's problems and solve them with modern technology\n\n💬 I enjoy meeting new open-minded people and share perspectives",
       "avatar": {
-        "alt": "Webp.net-resizeimage.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/18/62fdf908-3c54-4227-ae69-84237b0815d3_webp.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/18/62fdf908-3c54-4227-ae69-84237b0815d3_webp.jpg",
+        "alt": "Webp.net-resizeimage.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/pauromeropau"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/pauromeropau/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Hobbies",
         "fact": "* Art & Design\n* Read / Read art\n* A lot of sports"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pauromeropau/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/pauromeropau"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "organization": {
           "name": "Darwinex",
           "image": {
-            "alt": "dar.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/948f2cf4-9670-4b84-a3f8-b19775533b5c_dar.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/948f2cf4-9670-4b84-a3f8-b19775533b5c_dar.jpg",
+            "alt": "dar.jpg"
           },
           "URL": "https://www.darwinex.com/es/"
         },
@@ -68,11 +68,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JSON",
                 "type": "technology"
               },
               {
-                "name": "JSON",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -109,62 +109,10 @@
       },
       {
         "organization": {
-          "name": "Clidea Digital",
-          "image": {
-            "alt": "clidea.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/4388363c-22cf-45c7-908c-dbe13a81defa_clidea.jpg"
-          },
-          "URL": "https://clidea.org/"
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer & UX/UI Designer",
-            "startDate": "2020-06-01",
-            "finishDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": "· Website development with Next.js (React Server Side Rendering) and WordPress CMS as a backend through queries with GraphQL.\n· Website development with CMS WordPress, PHP and MySQL.\n· Design with Figma software.\n· Task Automation with Python.\n· Agile Methodology."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Figma",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "España Fascinante",
           "image": {
-            "alt": "logoef.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/ea16df00-50bd-4a9a-bfc5-d0a26a040b1e_logoef.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/ea16df00-50bd-4a9a-bfc5-d0a26a040b1e_logoef.png",
+            "alt": "logoef.png"
           },
           "URL": "https://espanafascinante.com/"
         },
@@ -217,10 +165,62 @@
       },
       {
         "organization": {
+          "name": "Clidea Digital",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/4388363c-22cf-45c7-908c-dbe13a81defa_clidea.jpg",
+            "alt": "clidea.jpg"
+          },
+          "URL": "https://clidea.org/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer & UX/UI Designer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "· Website development with Next.js (React Server Side Rendering) and WordPress CMS as a backend through queries with GraphQL.\n· Website development with CMS WordPress, PHP and MySQL.\n· Design with Figma software.\n· Task Automation with Python.\n· Agile Methodology."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Box2Box",
           "image": {
-            "alt": "logo1.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/5d04729f-2673-4be4-ad38-01c465b528cc_logo1.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/5d04729f-2673-4be4-ad38-01c465b528cc_logo1.jpg",
+            "alt": "logo1.jpg"
           },
           "URL": "https://box2box.es"
         },
@@ -271,8 +271,8 @@
         "organization": {
           "name": "Saint-Gobain",
           "image": {
-            "alt": "MicrosoftTeams-image (10).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/8be5a28f-19e2-4fd7-acbb-5bda500697fd_microsoftteams-image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/8be5a28f-19e2-4fd7-acbb-5bda500697fd_microsoftteams-image.png",
+            "alt": "MicrosoftTeams-image (10).png"
           },
           "URL": "https://www.saint-gobain.es/"
         },
@@ -299,8 +299,8 @@
         "organization": {
           "name": "Ezquiaga Arquitectura Sociedad y Territorio SL.",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/e6cc7123-f428-4ece-b83d-bed187d293bf_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/e6cc7123-f428-4ece-b83d-bed187d293bf_logo.png",
+            "alt": "logo.png"
           },
           "URL": "https://ezquiagaarquitectura.com/"
         },
@@ -339,8 +339,8 @@
         "organization": {
           "name": "Cálculo de Estructuras, Ingeniería y Arquitectura",
           "image": {
-            "alt": "LOGO CE.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/e5df3ea6-ead8-4139-92d4-05c32dffd6e8_logo-ce.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/16/e5df3ea6-ead8-4139-92d4-05c32dffd6e8_logo-ce.jpg",
+            "alt": "LOGO CE.jpg"
           }
         },
         "roles": [
@@ -367,46 +367,25 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Italian",
-        "level": "Full professional proficiency"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -418,13 +397,37 @@
       },
       {
         "skill": {
-          "name": "Sass",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
           "type": "technology"
         }
       },
@@ -436,8 +439,28 @@
       },
       {
         "skill": {
-          "name": "NextJS",
+          "name": "jQuery",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
         }
       }
     ]
@@ -446,9 +469,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/pauromeropau/"
+          "URL": "https://www.linkedin.com/in/pauromeropau/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/pauromeropau",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "pauromeropau@gmail.com"
       ]
     },
     "preferences": {
@@ -485,5 +515,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I love to dig into people's problems and solve them with modern technology. I firmly believe that a great product must simplify users’ life.\nI do work for helping people so I need to collaborate with professionals that really believe in their product.",
+    "goodPractices": "1. KISS - Keep it simple, stupid\n2. YAGNI - You aren't gonna need it\n3. DRY - Don't repeat yourself"
   }
 }
