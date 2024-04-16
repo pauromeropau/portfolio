@@ -385,25 +385,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
           "type": "technology"
         }
       },
@@ -427,19 +409,7 @@
       },
       {
         "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Storybook",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -517,6 +487,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I love to dig into people's problems and solve them with modern technology. I firmly believe that a great product must simplify users’ life.\nI do work for helping people so I need to collaborate with professionals that really believe in their product.",
     "goodPractices": "1. KISS - Keep it simple, stupid\n2. YAGNI - You aren't gonna need it\n3. DRY - Don't repeat yourself"
   }
